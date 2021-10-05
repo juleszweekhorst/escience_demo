@@ -1,1 +1,2 @@
 Day two of the escience workshop. 
+The topic is about collaborating using Git.
