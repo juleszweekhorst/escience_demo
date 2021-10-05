@@ -1,3 +1,5 @@
 Day two of the escience workshop. 
+The topic is about collaborating using Git.
 For some people it is day 1.
 The collaborators of this doc on Day 2 are juleszweekhorst, damianaudley, praharsh09 and margi-hartanto
+
